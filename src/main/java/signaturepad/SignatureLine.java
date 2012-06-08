@@ -7,8 +7,7 @@ package signaturepad;
  *	@project	signaturetoimage
  *	@author		Vinod Kiran (vinodkiran@usa.net)
  *	@link		http://github.com/vinodkiran/SignatureToImageJava
- *	@license	New BSD License
- *	@version	1.0.1
+ *	@version	1.0.0
  */
 public class SignatureLine {
     int lx, ly, mx, my;
